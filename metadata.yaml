@@ -1,16 +1,22 @@
 _repo: The-Life-of-Carmen-Sylva-Queen-of-Roumania_49139
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Deichmann, Hilda
     birthdate: 1848
     gutenberg_agent_id: '45159'
     url: http://www.gutenberg.org/2009/agents/45159
+covers:
+- cover_type: archival
+  image_path: 49139-h/images/cover.jpg
 creator:
   author:
     agent_name: Stackelberg, Natalie
     gutenberg_agent_id: '45158'
     url: http://www.gutenberg.org/2009/agents/45158
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49139#The-Life-of-Carmen-Sylva-Queen-of-Roumania
 gutenberg_issued: '2015-06-05'
 gutenberg_type: Text
 identifiers:
